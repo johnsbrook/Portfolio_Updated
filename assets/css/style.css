@@ -1,0 +1,30 @@
+.headerStyle {
+    background-color: cornflowerblue;
+    color: white;
+    height: 150px;
+}
+
+.navStyle {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: large;
+    border-top: rgb(86, 139, 236);
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-bottom: rgb(86, 139, 236);
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+
+.mainBackground {
+    background-image: url("coding.jpg");
+}
+
+.cardStyle {
+    border-radius: 10px;
+}
+
+.footerStyle {
+    background-color: cornflowerblue;
+    color: white;
+}
