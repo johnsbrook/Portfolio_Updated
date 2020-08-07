@@ -1,6 +1,6 @@
-## Updated Portfolio
+# Updated Portfolio
 
-Welcome to my Portfolio! 
+## Welcome to my Portfolio! 
 
 Here you will be able to find the latest coding work that I've performed during Rutger's Coding Bootcamp. So far, there have been four assignments that I've completed: 
 
