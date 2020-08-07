@@ -39,6 +39,11 @@ a:visited {
     border-radius: 10px;
 }
 
+.cardStylePortfolio {
+    border-radius: 10px;
+    height:100%;
+}
+
 .footerStyle {
     background-color: cornflowerblue;
     color: white;
