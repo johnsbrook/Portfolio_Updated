@@ -23,6 +23,7 @@ a:hover {
     background-color: cornflowerblue;
     color: white;
     height: 150px;
+    font-family: 'Jost', sans-serif;
 }
 
 .navStyle {
@@ -35,11 +36,10 @@ a:hover {
     border-bottom: rgb(86, 139, 236);
     border-bottom-width: 2px;
     border-bottom-style: solid;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.mainBackground {
-    background-image: url("coding.jpg");
-}
+
 
 .cardStyle {
     border-radius: 10px;
@@ -48,6 +48,17 @@ a:hover {
 .cardStylePortfolio {
     border-radius: 10px;
     height:100%;
+}
+
+.card-text {
+    height: 125px;
+}
+
+.formStyle {
+    border-style: solid;
+    border-width: thin;
+    border-radius: 10px;
+    border-color: lavender;
 }
 
 .footerStyle {
